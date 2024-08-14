@@ -1,0 +1,13 @@
+:root{
+--background-color:#9AA0B3;
+--primary-color500 :#33F5FF; /* como crear variables de color en css y despues se llama cuando lo usas */
+--primary-color700:#1995B7;
+--success-color500: #75B522;
+--success-color700: #478211;
+--info-color500:#7A89FF;
+--warning-color500:#FFE100;
+--danger-color500:#FF4759; 
+--border-color:black;
+
+}
+
