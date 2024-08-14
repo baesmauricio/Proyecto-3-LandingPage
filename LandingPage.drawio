@@ -1,0 +1,123 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.7">
+  <diagram name="Página-1" id="ZJZz6blTJ6m1XPw_RWQZ">
+    <mxGraphModel dx="737" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="styn8hwi7p_PGosAuxOd-6" value="NavBar" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="22" y="51" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="styn8hwi7p_PGosAuxOd-7" value="Logo                                                                                 Home Sobre mi    Propuesta Destinos" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="120" y="50" width="640" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="styn8hwi7p_PGosAuxOd-8" value="" style="endArrow=none;html=1;rounded=0;" parent="styn8hwi7p_PGosAuxOd-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="230" as="sourcePoint" />
+            <mxPoint x="640" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="styn8hwi7p_PGosAuxOd-17" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;Fit your Brain&lt;/h1&gt;&lt;p style=&quot;text-align: center;&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;&lt;p style=&quot;text-align: center;&quot;&gt;Correo Electronico&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="styn8hwi7p_PGosAuxOd-7" vertex="1">
+          <mxGeometry x="130" y="60" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="styn8hwi7p_PGosAuxOd-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="styn8hwi7p_PGosAuxOd-7" vertex="1">
+          <mxGeometry x="130" y="260" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="styn8hwi7p_PGosAuxOd-19" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Sobre Mi&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, seddo eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="styn8hwi7p_PGosAuxOd-7" vertex="1">
+          <mxGeometry x="330" y="260" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="styn8hwi7p_PGosAuxOd-20" value="Foto" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="styn8hwi7p_PGosAuxOd-7" vertex="1">
+          <mxGeometry x="160" y="305" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="styn8hwi7p_PGosAuxOd-21" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="styn8hwi7p_PGosAuxOd-7" vertex="1">
+          <mxGeometry x="77" y="470" width="135" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="styn8hwi7p_PGosAuxOd-22" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="styn8hwi7p_PGosAuxOd-7" vertex="1">
+          <mxGeometry x="250" y="471" width="135" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="styn8hwi7p_PGosAuxOd-23" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="styn8hwi7p_PGosAuxOd-7" vertex="1">
+          <mxGeometry x="423" y="470" width="135" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="styn8hwi7p_PGosAuxOd-25" value="Propuestas&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-weight: 400; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22whiteSpace%3Dwrap%3Bhtml%3D1%3Baspect%3Dfixed%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22346%22%20y%3D%22532%22%20width%3D%22135%22%20height%3D%22135%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="styn8hwi7p_PGosAuxOd-7" vertex="1">
+          <mxGeometry x="244" y="431" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="styn8hwi7p_PGosAuxOd-27" value="Destinos" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="styn8hwi7p_PGosAuxOd-7" vertex="1">
+          <mxGeometry x="244" y="670" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="styn8hwi7p_PGosAuxOd-28" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="styn8hwi7p_PGosAuxOd-7" vertex="1">
+          <mxGeometry x="39" y="710" width="121" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="styn8hwi7p_PGosAuxOd-32" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="styn8hwi7p_PGosAuxOd-7" vertex="1">
+          <mxGeometry x="330" y="710" width="121" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="styn8hwi7p_PGosAuxOd-33" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="styn8hwi7p_PGosAuxOd-7" vertex="1">
+          <mxGeometry x="490" y="710" width="121" height="121" as="geometry" />
+        </mxCell>
+        <UserObject label="Link" link="https://www.draw.io" id="styn8hwi7p_PGosAuxOd-36">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" parent="styn8hwi7p_PGosAuxOd-7" vertex="1">
+            <mxGeometry x="69.5" y="791" width="60" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Link" link="https://www.draw.io" id="styn8hwi7p_PGosAuxOd-38">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" parent="styn8hwi7p_PGosAuxOd-7" vertex="1">
+            <mxGeometry x="360.5" y="791" width="60" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="styn8hwi7p_PGosAuxOd-40" value="Contacto" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="styn8hwi7p_PGosAuxOd-7" vertex="1">
+          <mxGeometry x="264" y="860" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="styn8hwi7p_PGosAuxOd-34" value="" style="endArrow=none;html=1;rounded=0;" parent="styn8hwi7p_PGosAuxOd-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2.5" y="848" as="sourcePoint" />
+            <mxPoint x="637.5" y="848" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="styn8hwi7p_PGosAuxOd-9" value="Main" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="22" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="styn8hwi7p_PGosAuxOd-10" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="122" y="477" as="sourcePoint" />
+            <mxPoint x="762" y="477" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="styn8hwi7p_PGosAuxOd-11" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="122" y="704" as="sourcePoint" />
+            <mxPoint x="762" y="704" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="styn8hwi7p_PGosAuxOd-12" value="WHO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="22" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="styn8hwi7p_PGosAuxOd-13" value="Productos o servicios" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="22" y="570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="styn8hwi7p_PGosAuxOd-14" value="Footer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="22" y="910" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="styn8hwi7p_PGosAuxOd-31" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="301" y="760" width="121" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="styn8hwi7p_PGosAuxOd-35" value="Destinos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="22" y="805.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="Link" link="https://www.draw.io" id="styn8hwi7p_PGosAuxOd-37">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" parent="1" vertex="1">
+            <mxGeometry x="331.5" y="839.5" width="60" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Link" link="https://www.draw.io" id="styn8hwi7p_PGosAuxOd-39">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" parent="1" vertex="1">
+            <mxGeometry x="643.5" y="841" width="60" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="styn8hwi7p_PGosAuxOd-42" value="Siguenos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="564" y="909" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="styn8hwi7p_PGosAuxOd-43" value="Inicio" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="155" y="910" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
